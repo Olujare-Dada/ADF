@@ -1,0 +1,9 @@
+{
+	"name": "adfcourseadfolan",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f7329ef-74e1-45f6-be70-5a91e18775b8",
+		"tenantId": "39cb5abf-8067-4c78-9f55-54141675570c"
+	}
+}
