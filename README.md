@@ -1,2 +1,2 @@
 # ADF
-Repository for ADF tutorial
+Repository for using Azure Data Factory
